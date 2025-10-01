@@ -1,5 +1,7 @@
 # Reinforcement_Learning_Midterm_1
 
+Added visualizations for our first RL exam, showcasing the differences between various exploration/exploitation strategies.
+
 https://github.com/user-attachments/assets/283973ea-5d62-496d-a1df-7b588b039a58
 
 
